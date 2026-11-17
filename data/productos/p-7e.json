@@ -1,0 +1,4 @@
+[
+{"id":"amortiguador-trasero-cv-47152","nombre":"Amortiguador trasero","marca":"Corven","codigo":"CV-47152","categoria":"Suspensión","compatibilidad":"Fiat Palio / Siena","descripcion":"Amortiguador a gas. Por unidad.","precio":64500,"mostrarPrecio":true,"stock":"disponible","zonaId":"pasillo-e","estante":1,"lado":"der","nota":"","imagen":"","destacado":false,"actualizado":"2026-11-17T12:00:00.000Z"},
+{"id":"cable-de-embrague-moto-ce-ybr","nombre":"Cable de embrague moto","marca":"Genérico","codigo":"CE-YBR","categoria":"Motos","compatibilidad":"Yamaha YBR 125","descripcion":"Cable de embrague con funda.","precio":8300,"mostrarPrecio":true,"stock":"disponible","zonaId":"pasillo-f","estante":4,"lado":"izq","nota":"","imagen":"","destacado":false,"actualizado":"2026-11-17T12:00:00.000Z"}
+]

@@ -1,0 +1,86 @@
+{
+  "nombre": "Repuestos \"Las Heras\"",
+  "eslogan": "Repuestos para autos y motos en Luján",
+  "telefono": "2323-583100",
+  "whatsapp": "5492323583100",
+  "direccion": "Las Heras 766",
+  "ciudad": "Luján, Buenos Aires",
+  "instagram": "https://www.instagram.com/repuestoslasheras/",
+  "linktree": "https://linktr.ee/repuestoslasheras",
+  "email": "",
+  "horarios": {
+    "1": [
+      {
+        "desde": "08:00",
+        "hasta": "12:30"
+      },
+      {
+        "desde": "14:30",
+        "hasta": "19:00"
+      }
+    ],
+    "2": [
+      {
+        "desde": "08:00",
+        "hasta": "12:30"
+      },
+      {
+        "desde": "14:30",
+        "hasta": "19:00"
+      }
+    ],
+    "3": [
+      {
+        "desde": "08:00",
+        "hasta": "12:30"
+      },
+      {
+        "desde": "14:30",
+        "hasta": "19:00"
+      }
+    ],
+    "4": [
+      {
+        "desde": "08:00",
+        "hasta": "12:30"
+      },
+      {
+        "desde": "14:30",
+        "hasta": "19:00"
+      }
+    ],
+    "5": [
+      {
+        "desde": "08:00",
+        "hasta": "12:30"
+      },
+      {
+        "desde": "14:30",
+        "hasta": "19:00"
+      }
+    ],
+    "0": [],
+    "6": []
+  },
+  "aviso": "",
+  "categorias": [
+    "Filtros",
+    "Lubricantes",
+    "Encendido",
+    "Iluminación",
+    "Electricidad",
+    "Frenos",
+    "Embrague",
+    "Distribución",
+    "Refrigeración",
+    "Motor",
+    "Suspensión",
+    "Motos",
+    "Baterías",
+    "Accesorios"
+  ],
+  "feriados": [],
+  "envios": true,
+  "textoEnvios": "Coordinamos envíos dentro de Luján. Consultá costo por WhatsApp.",
+  "anioFundacion": ""
+}

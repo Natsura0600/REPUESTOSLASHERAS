@@ -1,0 +1,4 @@
+[
+{"id":"bujia-de-encendido-bkr6e","nombre":"Bujía de encendido","marca":"NGK","codigo":"BKR6E","categoria":"Encendido","compatibilidad":"Fiat / VW / Renault motores 8v","descripcion":"Bujía de níquel estándar. Precio por unidad.","precio":5200,"mostrarPrecio":true,"stock":"disponible","zonaId":"pasillo-b","estante":3,"lado":"izq","nota":"","imagen":"","destacado":true,"actualizado":"2026-11-17T12:00:00.000Z"},
+{"id":"rotula-de-suspension-r-1840","nombre":"Rótula de suspensión","marca":"Corven","codigo":"R-1840","categoria":"Suspensión","compatibilidad":"Chevrolet Corsa / Celta / Prisma","descripcion":"Rótula inferior.","precio":19800,"mostrarPrecio":true,"stock":"disponible","zonaId":"pasillo-e","estante":3,"lado":"izq","nota":"","imagen":"","destacado":false,"actualizado":"2026-11-17T12:00:00.000Z"}
+]
