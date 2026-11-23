@@ -47,9 +47,9 @@
       "codigo": "",
       "nombre": "Depósito",
       "descripcion": "Solo personal. Piezas voluminosas y reposición.",
-      "x": 2,
+      "x": 11.5,
       "y": 0,
-      "w": 28,
+      "w": 20.5,
       "h": 2,
       "estantes": 0,
       "color": "#999999"
